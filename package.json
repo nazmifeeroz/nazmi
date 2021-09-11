@@ -1,0 +1,26 @@
+{
+  "name": "nazmi",
+  "version": "1.0.0",
+  "description": "Know more about me!",
+  "main": "index.js",
+  "bin": {
+    "nazmi": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazmifeeroz/nazmi.git"
+  },
+  "keywords": [
+    "nazmi",
+    "cli"
+  ],
+  "author": "Nazmi Feeroz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nazmifeeroz/nazmi/issues"
+  },
+  "homepage": "https://github.com/nazmifeeroz/nazmi#readme",
+  "dependencies": {
+    "figlet": "^1.5.2"
+  }
+}
