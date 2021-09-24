@@ -8,7 +8,7 @@ figlet(" Nazmi Feeroz ", (_, data) => {
 
   console.log(`
     ${chalk.blue.bold.underline("Nazmi Feeroz")} \u2022 ${chalk.bold.yellow(
-    "Software Consultant"
+    "Software Consultant at Zenika"
   )}
 
     Nazmi is a full stack developer who is passionate about 
