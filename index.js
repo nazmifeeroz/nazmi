@@ -18,7 +18,7 @@ figlet(" Nazmi Feeroz ", (_, data) => {
     
     ${chalk.black.italic(" P.S.: He is handicap without Vim! ")}
 ${chalk.dim(`
-    Github: ${chalk.white("  https://github.com/nazmifeeroz/  ")}
+    Github: https://github.com/nazmifeeroz/
     Twitter: https://twitter.com/nazmifeeroz`)}
 `);
 });
