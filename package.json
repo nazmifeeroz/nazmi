@@ -1,6 +1,6 @@
 {
   "name": "nazmi",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Know more about me!",
   "main": "index.js",
   "bin": {
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/nazmifeeroz/nazmi#readme",
   "dependencies": {
+    "chalk": "^4.1.2",
     "figlet": "^1.5.2"
   }
 }
