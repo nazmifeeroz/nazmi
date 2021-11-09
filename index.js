@@ -4,7 +4,7 @@ const chalk = require("chalk");
 
 figlet(" Nazmi Feeroz ", (_, data) => {
   console.clear();
-  console.log(chalk.blue(data));
+  console.log(chalk.greenBright(data));
 
   console.log(`
     ${chalk.blue.bold.underline("Nazmi Feeroz")} \u2022 ${chalk.bold.yellow(
@@ -15,6 +15,12 @@ figlet(" Nazmi Feeroz ", (_, data) => {
     creating user-friendly and performant web applications. 
     He is a strong advocate in clean code and managing states 
     with state machines.
+
+    Creator of ${chalk.bold("Create Vite React CLI")} (${chalk.red.bold.italic(
+    " npx create-vite-react "
+  )}), 
+    a react template configured with ViteJS, Typescript, 
+    Eslint/Prettier and React Testing Library.
 
     ${chalk.italic(" P.S.: He is handicap without Vim! ")}
 ${chalk.dim(`
