@@ -14,9 +14,9 @@ figlet(" Nazmi Feeroz ", (_, data) => {
     Nazmi is a full stack developer who is passionate about 
     creating user-friendly and performant web applications. 
     He is a strong advocate in clean code and managing states 
-    with state machines. 
-    
-    ${chalk.black.italic(" P.S.: He is handicap without Vim! ")}
+    with state machines.
+
+    ${chalk.italic(" P.S.: He is handicap without Vim! ")}
 ${chalk.dim(`
     Github: https://github.com/nazmifeeroz/
     Twitter: https://twitter.com/nazmifeeroz`)}
